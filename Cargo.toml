@@ -8,4 +8,5 @@ members = [
     "practice_1_2_1_debug",
     "practice_1_2_2_display",
     "practice_1_2_2_1_list",
+    "practice_1_2_3_formatting",
 ]
