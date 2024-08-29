@@ -9,11 +9,14 @@ fn main() {
     println!("{0}, this is {1}. {1}, this is {0}", "Alice", "Bob");
 
     // As can named arguments.
-    println!("{subject} {verb} {object}",
-             object="the lazy dog",
-             subject="the quick brown fox",
-             verb="jumps over");
-
+    #[allow(clippy::all)]
+    {
+        println!("{subject} {verb} {object}",
+                object="the lazy dog",
+                subject="the quick brown fox",
+                verb="jumps over");
+    }
+    
     // Different formatting can be invoked by specifying the format character
     // after a `:`.
     println!("Base 10:               {}",   69420); // 69420
@@ -34,7 +37,10 @@ fn main() {
     println!("{number:0>width$}", number=1, width=5);
 
     // Rust even checks to make sure the correct number of arguments are used.
-    println!("My name is {0}, {1} {0}", "Bond", "James");
+    #[allow(clippy::all)]
+    {
+        println!("My name is {0}, {1} {0}", "Bond", "James");
+    }
     // FIXME ^ Add the missing argument: "James"
 
     // Only types that implement fmt::Display can be formatted with `{}`. User-
