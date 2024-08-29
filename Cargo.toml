@@ -6,4 +6,5 @@ members = [
     "practice_1_1_comments",
     "practice_1_2_formatted_print",
     "practice_1_2_1_debug",
+    "practice_1_2_2_display",
 ]
