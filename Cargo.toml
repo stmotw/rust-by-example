@@ -3,4 +3,5 @@ resolver = "2"
 
 members = [
     "practice_1_hello",
+    "practice_1_1_comments",
 ]
