@@ -18,4 +18,5 @@ members = [
     "practice_3_2_1_use",
     "practice_3_2_2_c_like",
     "practice_3_2_3_linked_list",
+    "practice_3_3_constants",
 ]
