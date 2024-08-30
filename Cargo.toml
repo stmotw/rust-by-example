@@ -16,4 +16,5 @@ members = [
     "practice_3_1_structures",
     "practice_3_2_enums",
     "practice_3_2_1_use",
+    "practice_3_2_2_c_like",
 ]
