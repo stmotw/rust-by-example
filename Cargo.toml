@@ -13,4 +13,5 @@ members = [
     "practice_2_1_literals",
     "practice_2_2_tuples",
     "practice_2_3_arrays_and_slices",
+    "practice_3_1_structures",
 ]
