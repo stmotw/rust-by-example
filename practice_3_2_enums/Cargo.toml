@@ -1,0 +1,6 @@
+[package]
+name = "practice_3_2_enums"
+version = "0.1.0"
+edition = "2021"
+
+[dependencies]
