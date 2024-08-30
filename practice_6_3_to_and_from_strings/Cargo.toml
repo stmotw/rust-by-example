@@ -1,0 +1,6 @@
+[package]
+name = "practice_6_3_to_and_from_strings"
+version = "0.1.0"
+edition = "2021"
+
+[dependencies]

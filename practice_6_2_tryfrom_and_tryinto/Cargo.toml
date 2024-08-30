@@ -1,0 +1,6 @@
+[package]
+name = "practice_6_2_tryfrom_and_tryinto"
+version = "0.1.0"
+edition = "2021"
+
+[dependencies]

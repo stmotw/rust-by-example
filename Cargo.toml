@@ -28,4 +28,7 @@ members = [
     "practice_5_2_literals",
     "practice_5_3_inference",
     "practice_5_4_aliasing",
+    "practice_6_1_from_and_into",
+    "practice_6_2_tryfrom_and_tryinto",
+    "practice_6_3_to_and_from_strings",
 ]
