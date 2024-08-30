@@ -32,4 +32,5 @@ members = [
     "practice_6_2_tryfrom_and_tryinto",
     "practice_6_3_to_and_from_strings",
     "practice_7_expressions",
+    "practice_8_1_if_else",
 ]
