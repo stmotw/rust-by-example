@@ -24,4 +24,8 @@ members = [
     "practice_4_2_scope_and_shadowing",
     "practice_4_3_declare_first",
     "practice_4_4_freezing",
+    "practice_5_1_casting",
+    "practice_5_2_literals",
+    "practice_5_3_inference",
+    "practice_5_4_aliasing",
 ]
