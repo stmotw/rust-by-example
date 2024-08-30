@@ -23,4 +23,5 @@ members = [
     "practice_4_1_mutability",
     "practice_4_2_scope_and_shadowing",
     "practice_4_3_declare_first",
+    "practice_4_4_freezing",
 ]
