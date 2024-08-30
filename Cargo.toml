@@ -21,4 +21,5 @@ members = [
     "practice_3_3_constants",
     "practice_4_variable_bindings",
     "practice_4_1_mutability",
+    "practice_4_2_scope_and_shadowing",
 ]

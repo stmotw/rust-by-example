@@ -1,0 +1,6 @@
+[package]
+name = "practice_4_2_scope_and_shadowing"
+version = "0.1.0"
+edition = "2021"
+
+[dependencies]
