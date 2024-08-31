@@ -1,0 +1,6 @@
+[package]
+name = "practice_8_5_1_5_structs"
+version = "0.1.0"
+edition = "2021"
+
+[dependencies]

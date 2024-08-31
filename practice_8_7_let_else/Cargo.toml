@@ -1,0 +1,6 @@
+[package]
+name = "practice_8_7_let_else"
+version = "0.1.0"
+edition = "2021"
+
+[dependencies]
