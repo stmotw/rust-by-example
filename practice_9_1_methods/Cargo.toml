@@ -1,0 +1,6 @@
+[package]
+name = "practice_9_1_methods"
+version = "0.1.0"
+edition = "2021"
+
+[dependencies]
