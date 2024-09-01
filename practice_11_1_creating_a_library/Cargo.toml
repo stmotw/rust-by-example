@@ -1,0 +1,6 @@
+[package]
+name = "practice_11_1_creating_a_library"
+version = "0.1.0"
+edition = "2021"
+
+[dependencies]

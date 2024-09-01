@@ -66,4 +66,6 @@ members = [
     "practice_10_3_the_use_declaration",
     "practice_10_4_super_and_self",
     "practice_10_5_file_hierarchy",
+    "practice_11_1_creating_a_library",
+    "practice_11_2_using_a_library",
 ]
