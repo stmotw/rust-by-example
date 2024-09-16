@@ -93,4 +93,5 @@ members = [
     "practice_16_9_disambiguating",
     "practice_19_1_box_stack_and_heap", 
     "practice_19_2_vectors",
+    "practice_19_3_strings",
 ]
