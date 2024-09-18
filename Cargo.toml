@@ -97,4 +97,7 @@ members = [
     "practice_19_4_option",
     "practice_19_5_result",
     "practice_19_5_1_question",
+    "practice_19_7_hash_map",
+    "practice_19_7_1_key_types",
+    "practice_19_7_2_hash_set",
 ]

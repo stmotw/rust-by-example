@@ -1,0 +1,6 @@
+[package]
+name = "practice_19_7_2_hash_set"
+version = "0.1.0"
+edition = "2021"
+
+[dependencies]
